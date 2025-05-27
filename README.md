@@ -7,6 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-### Hi there
-- I'm currently learning to use [GitHub Pages](https://pages.github.com/) to create my first project.
-- I'm learning with help from [GitHub Skills](https://github.com/).
+### Hi there 👋
+- 🌱I'm currently learning to use [GitHub Pages](https://pages.github.com/) to create my first project.
+- 📚 I'm learning with help from [GitHub Skills](https://github.com/).
