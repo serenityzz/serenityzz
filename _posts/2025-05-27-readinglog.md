@@ -23,6 +23,6 @@ This is the first vacabulary log.<br>
 - **Meaning:** To change direction or strategy quickly, especially in response to new information or challenges.
 - **Example sentence:** The company had to pivot their business model after market trends shifted.
 
-### mushy
-- **Meaning:** Soft, wet, and often unpleasant to touch or eat, usually used to describe food that has lost its firmness.<br>
-    Opposite of *crunchy*. 
+### mushy 
+- **Meaning:** Soft, wet, and often unpleasant to touch or eat, usually used to describe food that has lost its firmness.<br> 
+    Opposite of *crunchy*.
