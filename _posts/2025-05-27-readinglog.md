@@ -1,6 +1,7 @@
 ---
 title: "Vocabulary log #1"
 date: 2025-05-27
+tag: reading log
 ---
 
 To improve my English, I started listening to podcast during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
