@@ -4,7 +4,7 @@ date: 2025-05-27
 tag: reading log
 ---
 
-To improve my English, I started listening to podcast during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
+To improve my English, I started listening to podcast :radio: during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
 This is the first vacabulary log.<br>
 
 ### adversity
@@ -13,7 +13,7 @@ This is the first vacabulary log.<br>
 
 ### dogfood
 - **Meaning:** A slang used in the tech industry. To use your own product or service in real-life situations to test it and show confidence in its quality. <br>
-    It comes from the phrase **eating your own dog food**. Someone uses a polished version: **Drink our own champaign**. 
+    It comes from the phrase **eating your own dog food**. Nowadays people use a polished version: **Drink our own champaign** :wine_glass:. 
 - **Example sentence:** Dogfooding a proudct sufficiently before the release can prevent critical issues.<br>
 
 ### fleeting
