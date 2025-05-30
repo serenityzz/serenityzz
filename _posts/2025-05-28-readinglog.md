@@ -1,6 +1,6 @@
 ---
 title: "Vocabulary log #1"
-date: 2025-05-27
+date: 2025-05-28
 tag: reading log
 ---
 
