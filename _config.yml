@@ -1,2 +1,5 @@
 theme: minima
 title: Starring Planet
+markdown: kramdown
+kramdown:
+  input: GFM
