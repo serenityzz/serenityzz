@@ -5,10 +5,10 @@ tag: reading log
 ---
 
 :radio: <br>
-This is the second episode of the reading log. <br>
+This is the second episode of the vocabulary log. <br>
 Related reading logs:<br>
-[Reading log #1](https://serenityzz.github.io/serenityzz/2025/05/28/readinglog.html)<br>
-[Reading log #1]({{ "/2025-06-03-readinglog.html" | relative_url }})
+[Vocabulary log #1](https://serenityzz.github.io/serenityzz/2025/05/28/readinglog.html)<br>
+[Vocabulary log #1]({{ "/2025-06-03-readinglog.html" | relative_url }})
 
 ### juice not worth the squeeze
 - **Meaning:** An idiom meaning the benefits or results of an action are not worth the effort, time, or cost required to achieve the action.  
