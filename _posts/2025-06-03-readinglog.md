@@ -5,22 +5,27 @@ tag: reading log
 ---
 
 :radio: <br>
-This is the second episode of the vocabulary log. <br>
+This is the second episode of the vocabulary log. Most of the vocabularies and sentences in this episode are cited from 
+*The Ecomonist*.<br>
 Related reading logs:<br>
-[Vocabulary log #1](https://serenityzz.github.io/serenityzz/2025/05/28/readinglog.html)<br>
-[Vocabulary log #1]({{ "/2025-06-03-readinglog.html" | relative_url }})
+[Vocabulary log #1]({{ "/2025/05/28/readinglog.html" | relative_url }})
 
 ### juice not worth the squeeze
 - **Meaning:** An idiom meaning the benefits or results of an action are not worth the effort, time, or cost required to achieve the action.  
 - **Example sentence:** We could redesign the entire feature, but honestly, the juice isn't worth the squeeze.<br>
 
-### h3 <br>
-- **Meaning:** . <br>
-- **Example sentence:** Dogfooding a proudct sufficiently before the release can prevent critical issues.<br>
+### crunch <br>
+Another meaning of *crunch*. <br>
+- **Meaning:** A crisis or intense situation<br>
+- **Example sentence:** The trade and geopolitical crunch is happening as the population is ageing and amid rising environmental harm, from thinning topsoils in the Mekong Delta to coal-choked air. <br>
 
-### h3 <br>
-- **Meaning:** <br>
-- **Example sentence:** <br>
+### hedge <br>
+- **Meaning:** To avoid choosing one side over another, to stay noncommitted.<br>
+- **Example sentence:** Like many Asian courtires it wants to hedge between an unreliable America and a bullying China.<br>
+
+### spillover <br>
+- **Meaning:** In economics and businesse. Broader indirect benefits or costs that an activity or investment creates for other parts of the economy or society beyond its immediate purpose. <br>
+- **Example sentence:** They (the foreign companies that have investments in Vietnam) mostly buy their inputs abroad and create few spillovers for the rest of the economy. <br>
 
 ### h3 <br>
 - **Meaning:** <br>
