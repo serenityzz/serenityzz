@@ -6,7 +6,7 @@ tag: reading log
 
 :radio: <br>
 To improve my English, I started listening to podcast during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
-This is the first vacabulary log.<br>
+This is the first esipose of vacabulary log.<br>
 
 ### adversity
 - **Meaning:** A difficult or unpleasant situation, hardship or misfortune.
