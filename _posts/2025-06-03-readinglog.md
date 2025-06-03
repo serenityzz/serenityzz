@@ -26,11 +26,3 @@ Another meaning of *crunch*. <br>
 ### spillover <br>
 - **Meaning:** In economics and businesse. Broader indirect benefits or costs that an activity or investment creates for other parts of the economy or society beyond its immediate purpose. <br>
 - **Example sentence:** They (the foreign companies that have investments in Vietnam) mostly buy their inputs abroad and create few spillovers for the rest of the economy. <br>
-
-### h3 <br>
-- **Meaning:** <br>
-- **Example sentence:** <br>
-
-### h3 <br>
-- **Meaning:** <br>
-- **Example sentence:** <br>
