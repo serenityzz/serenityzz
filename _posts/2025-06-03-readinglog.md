@@ -1,5 +1,5 @@
 ---
-title: "Vocabulary log #1"
+title: "Vocabulary log #2"
 date: 2025-06-03
 tag: reading log
 ---
@@ -7,6 +7,7 @@ tag: reading log
 :radio: <br>
 This is the second episode of the reading log. <br>
 Related reading logs:<br>
+[Related Post]({{ "/2024/06/01/interesting-topic.html" | relative_url }})
 
 
 
