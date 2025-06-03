@@ -1,5 +1,5 @@
 ---
-title: Silkworms
+title: Raising silkworms
 date: 2025-05-30
 tag: personal story
 ---
