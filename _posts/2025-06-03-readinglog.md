@@ -5,26 +5,26 @@ tag: reading log
 ---
 
 :radio: <br>
-This is the second episode of the reading log. 
+This is the second episode of the reading log. <br>
+Related reading logs:<br>
 
 
-### juice worth the squeeze
-- **Meaning:** A slang meaning the benefit or outcome is worth the effort or time you spend. 
-- **Example sentence:** She showed great resilience in face of adversity.<br>
+
+### juice not worth the squeeze
+- **Meaning:** An idiom meaning the benefits or results of an action are not worth the effort, time, or cost required to achieve the action.  
+- **Example sentence:** We could redesign the entire feature, but honestly, the juice isn't worth the squeeze.<br>
 
 ### 
-- **Meaning:** A slang used in the tech industry. To use your own product or service in real-life situations to test it and show confidence in its quality. <br>
-    It comes from the phrase **eating your own dog food**. Nowadays people use a polished version: **Drink our own champaign** :wine_glass:. 
+- **Meaning:** . <br>
 - **Example sentence:** Dogfooding a proudct sufficiently before the release can prevent critical issues.<br>
 
-### fleeting
-- **Meaning:** Lasting for a very short time.
-- **Example sentence:** The happiness that comes from possessing something may be fleeting, but the joyful memories of an experience can be lasting.
+### 
+- **Meaning:** <br>
+- **Example sentence:** <br>
 
-### pivot
-- **Meaning:** To change direction or strategy quickly, especially in response to new information or challenges.
-- **Example sentence:** The company had to pivot their business model after market trends shifted.
+### 
+- **Meaning:** <br>
+- **Example sentence:** <br>
 
 ### mushy 
-- **Meaning:** Soft, wet, and often unpleasant to touch or eat, usually used to describe food that has lost its firmness.<br> 
-    Opposite of *crunchy*.
+- **Meaning:** <br>
