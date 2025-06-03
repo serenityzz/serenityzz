@@ -8,7 +8,6 @@ tag: reading log
 This is the second episode of the vocabulary log. Most of the vocabularies and sentences in this episode are cited from 
 *The Ecomonist*.<br>
 Related reading logs:<br>
-[Vocabulary log #1](https://serenityzz.github.io/serenityzz/2025/05/28/readinglog.html)<br>
 [Vocabulary log #1]({{ "/2025/05/28/readinglog.html" | relative_url }})
 
 ### juice not worth the squeeze
