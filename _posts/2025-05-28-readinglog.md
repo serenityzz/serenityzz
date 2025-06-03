@@ -4,7 +4,8 @@ date: 2025-05-28
 tag: reading log
 ---
 
-To improve my English, I started listening to podcast :radio: during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
+:radio: <br>
+To improve my English, I started listening to podcast during my daily commute about one month ago. I come across new vocabularies from time to time and write them down in my blog to better memorize them.<br> 
 This is the first vacabulary log.<br>
 
 ### adversity
