@@ -1,7 +1,9 @@
 ---
 title: "Is Flare DITA?"
 date: 2025-06-18
-tags: technical writing, DITA
+tags: 
+- technical writing
+- DITA
 ---
 💻 📝<br>
 During an interview for a technical writer, I mentioned that we were using MadCap Flare as the authoring and output generation tool. One interviewer asked if Flare was DITA.    
