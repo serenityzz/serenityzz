@@ -38,7 +38,7 @@ The word "season", when used as verb, means: <br>
 A broad term that includes all inherited cultural expressions, both tangible and intangible, that a society values and passes down through generations.<br>
 It is divided into: <br>
 - **tangible cultural heritage**: physical objects (including cultural relics, architects, landscapes, and mountains) <br>
-- **Intangile cultural heritage**: non-physical, cultural expressions passed through generations, representing a community's values, identity, and creativity. <br>
+- **intangile cultural heritage**: non-physical, cultural expressions passed through generations, representing a community's values, identity, and creativity. <br>
 
 **cultural relics** are objects, artifacts, or structures that have historical, artistic, scientific, or cultural value and are preserved because they represent the heritage of a particular culture, society, or civilization. In Chinese, it means "文物".<br>
 
