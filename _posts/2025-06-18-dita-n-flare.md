@@ -16,10 +16,10 @@ Flare is an authoring tool proprietary to the MadCap software company. It also f
 ### Similarities between DITA and Flare
 DITA and Flare share the following similarities.    
 | Feature | Description| 
-|:---|:---|
-| **Topic-based authoring** | Both are topic-based. You write content in small, reusable chunks called topics and reuse them in multiple outputs, for online help and printed materials, or in differnt channels like user manuals and marketing brochures.|
-| **Content reuse** | Reuse content for various outputs or channels. <ul><li>In DITA, use conref, keys, and profiling.</li><li>In Flare, use snippets and variables.</li></ul> |
-| **Conditional content** | Condition content for multiple audiences or purposes. <ul><li>In DITA, use conref, keys, profiling, and filtering with attributes.</li><li>In Flare, use conditions at the sentence, paragraph, topic, and target levels.</li></ul> |
+|:---|:---------|
+| **Topic-based authoring** | Both are topic-based. You write content in small, reusable chunks called topics and reuse them in multiple outputs, for online help and printed materials, or in differnt channels like user manuals and marketing brochures. |
+| **Content reuse** | Reuse content for various outputs or channels.<br>- In DITA, use conref, keys, and profiling.<br>- In Flare, use snippets and variables. |
+| **Conditional content** | Condition content for multiple audiences or purposes.<br>- In DITA, use conref, keys, profiling, and filtering with attributes.<br>- In Flare, use conditions at the sentence, paragraph, topic, and target levels. |
 | **Multiple output formats** | Both support various output formats such as HTML, PDF, and so on.|
 
 ## Is Flare DITA?
