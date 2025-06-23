@@ -15,8 +15,8 @@ Flare is an authoring tool proprietary to the MadCap software company. It also f
 
 ### Similarities between DITA and Flare
 DITA and Flare share the following similarities.
-| Feature                | Description |
-|------------------------|-------------|
+| Feature | Description |
+|:---|:---|
 | **Topic-based authoring** | Both are topic-based. You write content in small, reusable chunks called topics and reuse them in multiple outputs like online help and printed materials, or different channels like user manuals and marketing brochures. |
 | **Content reuse**        | Reuse content across outputs or channels.<br>- **DITA**: conref, keys, profiling.<br>- **Flare**: snippets, variables. |
 | **Conditional content**  | Customize content for multiple audiences.<br>- **DITA**: conref, keys, profiling, filtering attributes.<br>- **Flare**: conditions at sentence, paragraph, topic, and target levels. |
