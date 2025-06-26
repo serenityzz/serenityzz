@@ -5,12 +5,11 @@ tags:
 - technical writing
 - DITA
 ---
-💻 📝<br>
-During an interview for a technical writer, I mentioned that we were using MadCap Flare as the authoring and output generation tool. One interviewer asked if Flare was DITA.    
-DITA and Flare share some similar concepts and features such as topic-based authoring, single-sourcing, and content reuse, but they are not the same thing. 
+📝<br>
+During an interview for a technical writer, I mentioned that we were using MadCap Flare as the authoring and output generation tool. One interviewer asked if Flare was DITA. DITA and Flare share some similar concepts and features such as topic-based authoring, single-sourcing, and content reuse, but they are not the same thing. 
 
 ## DITA and Flare
-**DITA** stands for Darwin Information Type Architecture, is a content management approach that features modular and reusable content.    
+**DITA** stands for Darwin Information Type Architecture. It is a content management approach that features modular and reusable content.    
 Flare is an authoring tool proprietary to the MadCap software company. It also features modular and reusable content.     
 
 ### Similarities between DITA and Flare
