@@ -1,5 +1,5 @@
 ---
-title: "Is Flare DITA?"
+title: "Single-sourcing"
 date: 2025-06-18
 tag: technical writing
 ---
@@ -20,9 +20,17 @@ Single-sourcing offers the following benefits: <br>
 
 ## Use single-sourcing in Flare
 The authoring tool I ever used in my previous jobs is Flare. In this section, I will talk about how to use single-sourcing in Flare.<br> 
-In Flare you can use the following to single source your content. <br>
+In Flare you can use the snippets or sinlge project but different targets to single source your content. <br>
+### Snippets
+Use snippets to create small chunks of resuable content, such as parapgraphs, tables, and images. When using snippets, the formating of the content is preserved. 
+For example, if commands A and B share the same set of parameters, you can create a snippet containing a table that describes those parameters. Then in each topic that exaplains the two commands, you can insert the snippet.   
+### Single project, different outputs
+When large volumes of content can be shared, you can set up one Flare project and generate various outputs. Typical use cases of this are: <br>
+- On-premises and SaaS versions of the same product. 
+- A same help guide published online and in PDFs. <br>
 
-|||
-Snippets. 
-Single topic, differnt targets. 
-
+To use a single Flare project to generate various outputs, do the following:<br>
+1. Create a Flare poject and create all the topics.
+2. Set up a TOC for each output.
+3. Set up a target for each ouput.
+4. 
