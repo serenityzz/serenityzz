@@ -1,0 +1,13 @@
+### Snippets
+Use snippets to create small chunks of reusable content, such as paragraphs, tables, and images. When using snippets, the formating of the content is preserved.<br>
+For example, if commands A and B share the same set of parameters, you can create a snippet containing a table that describes those parameters. Then in each individual topic that exaplains the two commands, you can insert the snippet.   
+### Single project, different outputs
+When large volumes of content can be shared, you can set up one Flare project and generate various outputs. Typical use cases of this are: <br>
+- On-premises and SaaS versions of the same product. 
+- A same help guide published online and in PDFs. <br>
+
+To use a single Flare project to generate various outputs, do the following:<br>
+1. Create a Flare poject and create all the topics.
+2. Set up a TOC for each output.
+3. Set up a target for each ouput.
+4. 
