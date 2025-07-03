@@ -18,8 +18,8 @@ DITA and Flare share the following similarities.
 | Feature | Description |
 |:---|:---|
 | **Topic-based authoring** | Both are topic-based. You write content in small, reusable chunks called topics and reuse them in multiple outputs like online help and printed materials, or different channels like user manuals and marketing brochures. |
-| **Content reuse**        | Reuse content across outputs or channels.<br>- **DITA**: conref, keys, profiling.<br>- **Flare**: snippets, variables. |
-| **Conditional content**  | Customize content for multiple audiences.<br>- **DITA**: conref, keys, profiling, filtering attributes.<br>- **Flare**: conditions at sentence, paragraph, topic, and target levels. |
+| **Content reuse**        | Both support content reuse across outputs or channels.<br>- **DITA** uses conref, keys, and profiling.<br>- **Flare** uses snippets and variables. |
+| **Conditional content**  | Both support conditioning content for multiple audiences.<br>- **DITA** uses conref, keys, profiling, and filtering attributes.<br>- **Flare** uses conditions at sentence, paragraph, topic, and target levels. |
 | **Multiple output formats** | Both support outputs like HTML, PDF, and more. |
 
 ## Is Flare DITA?
