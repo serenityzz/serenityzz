@@ -1,6 +1,6 @@
 ---
 title: "Single-sourcing"
-date: 2025-06-18
+date: 2025-07-03
 tag: technical writing
 ---
 📑   
