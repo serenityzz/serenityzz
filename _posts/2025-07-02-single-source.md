@@ -6,7 +6,7 @@ tag: technical writing
 📑   
 This topic introduces single-sourcing in technical writing, its benefits, and how to apply it in Flare.<br>
 ## Overview
-Single-sourcing is the practice of creating content once and reusing it in various places. It is commonly used in technical writing where you create content in a central place and use it in various formats such as online helps and PDFs. It reduces redundancy, enhances consistency, and simplifies content management.<br>
+Single-sourcing is the practice of creating content once and reusing it in various places. It is commonly used in technical writing where you create content in a central place and use it in various formats such as online helps and PDFs. Single-sourcing reduces redundancy, enhances consistency, and simplifies content management.<br>
 
 Here are some use case examples.<br>
 - **Example 1**: Both the Product A and Product B follow the same safety guidelines, so you can create a single safety guide and reuse it in both products' manuals. 
