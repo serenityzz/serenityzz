@@ -11,3 +11,20 @@ To use a single Flare project to generate various outputs, do the following:<br>
 2. Set up a TOC for each output.
 3. Set up a target for each ouput.
 4. 
+
+When large volumes of content can be shared, you can set up one Flare project and generate various outputs. Typical use cases of this are: <br>
+- On-premises and SaaS versions of the same product. 
+- A same help guide published online and in PDFs. <br>
+### At paragraph level
+Use snippets to single source small chunks of reusable content, such as paragraphs, tables, and images. When using snippets, the formating of the content is preserved. For example, if commands A and B share the same set of parameters, you can create a snippet containing a table that describes those parameters. Then you insert the snippet in each respective topic that describes the two commands.   
+### At topic level
+When larger pieces of content can be shared, you can single source and reuse the content at the topic level. For instance, you create a topic introducing a product and then use this topic in the product's user guide and administration guide. If some sentences or paragraphs in the topic require different content for different guides (such as a feature only available to admins), you can use conditional text in the relevant sentence or paragraph.  
+### At output level
+When large volumes of content (like most content in a guide) can be shared, you can set up one Flare project and generate various outputs. Typical use cases of this are: <br>
+- On-premises and SaaS versions of the same product. 
+- A same help guide published online and in PDFs. <br>
+
+To use a single Flare project to generate various outputs, do the following:<br>
+1. Set up a TOC for each output.
+3. Set up a target for each ouput.
+4. For topics that require different content for each output, you can use conditional content or snippets. For details, see [At paragraph level](#at-paragraph-level) and [At topic level](#at-topic-level).
