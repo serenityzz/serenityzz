@@ -6,22 +6,20 @@ tag: technical writing
 📑   
 This topic introduces single-sourcing in technical writing, its benefits, and how to apply it in Flare.<br>
 ## Overview
-Single-sourcing is the practice of creating content once and reusing it across various outputs and formats. It is commonly used in technical writing where you create content in a central place and use it in various formats such as online helps, PDFs, and printed materials. It reduces redundancy, enhances consistency, and simplifies content update. 
-## Use case examples<br>   
-When a lot of content is shared, it can be more efficient to single source the content. Here are some use case examples.<br>
-
+Single-sourcing is the practice of creating content once and reusing it in various places. It is commonly used in technical writing where you create content in a central place and use it in various formats such as online helps, PDFs, and printed materials. It reduces redundancy, enhances consistency, and simplifies content management. 
+Example use cases include:<br>
 - **Example 1**: Both the Product A and Product B follow the same safety guidelines, so you can create a single safety guide and reuse it in both products' manuals. 
-- **Example 2**: You write an introduction for a new product. The docs team includes the product introduction in the user manual, while the marketing team uses the same introduction in the product brochures.
+- **Example 2**: You write an introduction for a new product and include it in the product's user manual and administration guide. 
 
 ## Benefits of single-sourcing    
 Single-sourcing provides the following benefits: <br>
 
-- **Efficiency**. For shared content, you only need to create it once and it can be reused across various outputs. This eliminates content duplication, saves time, and improves efficiency. <br>
-- **Consistency**. When there's a need to update the content, you only need to make the update in a single place and the update is reflected in all places where the content is used. This ensures consistent content across outputs and channels, helping maintain a unified user experience.<br>
+- **Efficiency**. For shared content, you only need to create it once and can reuse it across various outputs. This eliminates content duplication, saves time, and improves efficiency. <br>
+- **Consistency**. When there's a need to update the content, you only need to make the update in a single place and the update is reflected in all places where the content is used. This ensures content consistency across outputs and channels, helping maintain a unified user experience.<br>
 - **Scalbility**. When information needs expand, single-sourcing allows easy scaling. For instance, if your product manual was published in PDFs but now needs to be available online, single-sourcing allows you to generate the HTML output using the existing content.
 
 ## Single-sourcing in Flare
-This section provides details on how to apply single-sourcing in Flare.<br> 
+This section provides details on how to apply single-sourcing in Flare. In Flare you can use snippets and conditions to single source your content.<br> 
 Flare supports single-sourcing at the paragraph, topic, and output levels. <br>
 ### At paragraph level
 Use snippets to single source small chunks of reusable content, such as paragraphs, tables, and images. When using snippets, the formating of the content is preserved. For example, if commands A and B share the same set of parameters, you can create a snippet containing a table that describes those parameters. Then you insert the snippet in each respective topic that describes the two commands.   
