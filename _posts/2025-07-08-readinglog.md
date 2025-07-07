@@ -7,8 +7,8 @@ tag: reading log
 :radio: <br>
 This is the third episode of the vocabulary log. Most of the vocabularies and sentences in this episode are cited from *The Ecomonist*.<br>
 Related reading logs:<br>
--[Vocabulary log #1]({{ "/2025/05/28/readinglog.html" | relative_url }})
--[Vocabulary log #2]({{ "/2025/06/03/readinglog.html" | relative_url }})
+- [Vocabulary log #1]({{ "/2025/05/28/readinglog.html" | relative_url }})
+- [Vocabulary log #2]({{ "/2025/06/03/readinglog.html" | relative_url }})
 
 ### scale
 *scale* can be used as verb and noun:<br>
