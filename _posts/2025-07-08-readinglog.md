@@ -57,7 +57,8 @@ The following are some commonly used phrases:<br>
   eg.: She toild away at her research for months.
 - **fruit of one's toil:** rewards of one's hard work. 
 
-### phrases
+### other phrases
 
-**leap forward** and **step back**
-**premium brands** and **budget brands**
+- **leap forward** and **step back**
+
+- **premium brands** and **budget brands**
