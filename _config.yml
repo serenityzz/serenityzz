@@ -1,4 +1,6 @@
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 title: Starry Planet
+author: Serenity
+description: My pracice writing project
 plugins:
   - jemoji
