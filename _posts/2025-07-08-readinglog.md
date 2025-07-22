@@ -4,7 +4,7 @@ date: 2025-07-08
 tag: reading log
 ---
 
-:radio: <br>
+📻 <br>
 This is the third episode of the vocabulary log. Most of the vocabularies and sentences in this episode are cited from *The Ecomonist*.<br>
 Related reading logs:<br>
 

@@ -1,12 +1,11 @@
 ---
-
 title: "Introduction to single-sourcing in technical writing"
 date: 2025-07-03
 tag: technical writing
 
 ---
 
-📑   
+📑 <br>
 This topic introduces single-sourcing in technical writing, its benefits, and how to apply it in Flare.<br>
 
 ## Overview

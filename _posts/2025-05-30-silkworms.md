@@ -1,15 +1,14 @@
 ---
-
 title: Raising silkworms
 date: 2025-05-30
 tag: personal story
 
 ---
 
-This spring :blossom:, I raised silkworms for the very first time.
+This spring 🌼, I raised silkworms for the very first time.
 
-I grew up in the Yangtze River Delta, where it is common to raise silkworms to produce silk; and in spring, mulberry leaves :leaves:, the only food silkworms eat, are plentiful. <br>
-Still, never in my life have I raised any myself. I avoided it because I don’t like insects, especially the soft-bodied kind without a spine. Just thinking about them crawling would make me feel uneasy :worried:. 
+I grew up in the Yangtze River Delta, where it is common to raise silkworms to produce silk; and in spring, mulberry leaves 🍃, the only food silkworms eat, are plentiful. <br>
+Still, never in my life have I raised any myself. I avoided it because I don’t like insects, especially the soft-bodied kind without a spine. Just thinking about them crawling would make me feel uneasy 😟. 
 
 The idea to raise silkworms came from my daughter’s Nature class at school. <br>
 One evening during dinner, she said, *“Mum, our Nature teacher is giving us silkworm eggs to hatch at home. Can I bring some back so we can watch how they become silkworms, grow through different stages, and eventually become moths?”* 
@@ -18,9 +17,9 @@ I wanted to say no. But trying to be a supportive mother, I gave a reluctant yet
 *“Sure, if you want to, and you’ll have to take responsibility for taking care of them.”*
 
 The next day, she came home with them, in a small box she had folded from a piece of paper. Inside were tiny black specks, barely visible.<br>
-*“Where are your silkworms?”* I asked :confused:. <br>
-*“They’re in there,”* she replied, pointing :point_right: to the box. <br>
-I looked inside :dizzy_face:. *“There’s nothing here.”* <br>
+*“Where are your silkworms?”* I asked 😕. <br>
+*“They’re in there,”* she replied, pointing 👉 to the box. <br>
+I looked inside 😵. *“There’s nothing here.”* <br>
 *“See those black dots? Those are the eggs. They’ll hatch in a few days.”* <br>
 The eggs were so small, like dirt. If I hadn’t known it, I might have wiped them away.
 
