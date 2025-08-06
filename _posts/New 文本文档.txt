@@ -1,0 +1,296 @@
+Introduction:
+Grammar: "Technnical" should be corrected to "Technical."
+
+Flow: The sentence "Instead of storing them locally, creating a personal site for your portfolio makes it accessible from anywhere at any time" could be more concise.
+
+Suggestion: Consider changing "Instead of storing them locally, creating a personal site for your portfolio makes it accessible from anywhere at any time" to "Rather than storing them locally, creating a personal portfolio site makes it accessible anytime, anywhere."
+
+Revised Introduction:
+Technical writers are often asked to provide writing samples to showcase their skills. Rather than storing them locally, creating a personal portfolio site makes it accessible anytime, anywhere. One easy way to do this is by using GitHub Pages, a static website hosting service provided by GitHub. This topic walks you through the process of creating a GitHub Pages site.
+
+2. How a GitHub Pages site is generated:
+   Grammar: "When you text files are ready" should be "When your text files are ready."
+
+Clarity: The phrase “GitHub Pages uses the following components to generate a static site” is a bit broad. It would be helpful to briefly explain how each component works together. For example, you might mention how the static site generator works in tandem with the repository.
+
+Repetition: The phrase "GitHub repository" is mentioned multiple times in quick succession. Consider merging the first and second bullet points for conciseness.
+
+Revised Section:
+GitHub Pages generates a static website using two main components:
+
+GitHub Repository: Each GitHub Pages site is linked to a GitHub repository, where you store and organize your site's content. You write the content in plain text, typically in Markdown or HTML, and save it in a designated folder within the repository.
+
+Static Site Generator: Once your text files are in the repository, you need a static site generator to turn them into a website. Jekyll is an easy and recommended choice, fully supported by GitHub Pages. It offers pre-configured templates, called themes, that automatically generate a static website from the content stored in your GitHub repository.
+
+GitHub offers a variety of public Jekyll themes, each with different layouts and styles. Beginners can easily integrate one of these themes to create a personal site. The Create a GitHub Pages Website section explains how to use a Jekyll theme for your site.
+
+3. Before you start:
+   Grammar: "Mardown" should be corrected to "Markdown."
+
+Consistency: "GitHub Pages supports text in HTML and Mardown files" could be more specific. It might be better to explain that both file formats are supported, and you recommend Markdown.
+
+Clarity: The mention of "pull a request" and "push a request" might confuse beginners. Use the more common terms "pull request" and "push request."
+
+Suggestion: Expand the explanation on Git, especially for beginners who may not understand what a "branch" or "merge request" means. A brief mention that GitHub is built on Git (version control system) could help.
+
+Revised Section:
+Before using GitHub Pages to create your personal site, familiarize yourself with the following:
+
+Markdown or HTML basics: GitHub Pages supports both HTML and Markdown files. For simplicity, we recommend using Markdown, as it is easier to learn. To get started, see the Markdown syntax guide.
+
+Basic Git concepts: Understanding basic Git concepts, such as pull requests, push requests, merge requests, and branches, is essential for working with GitHub. GitHub is built on Git, a version control system that tracks changes in your project files.
+
+4. Create a GitHub Pages website:
+   Clarity: The sentence "There are many ways to use GitHub Pages to create a site. The most simple one is by forking (copying) a Jekyll repository to your GitHub and manage content files in the copied repository" could be simplified.
+
+Repetition: You mention "forking" in the steps later, so it's unnecessary to explain it here. Instead, focus on guiding users directly into the action steps.
+
+Revised Section:
+There are several ways to create a website with GitHub Pages. The simplest method is by forking a Jekyll repository to your GitHub account and managing content in the forked repository.
+
+5. Steps to Create a GitHub Pages Website:
+   Clarity: The steps are generally well-structured, but a few minor changes can improve clarity and flow.
+
+Grammar: "Log in to GitHub. If you haven't signed up for GitHub, sign up first and then log in." This is redundant. Combine these instructions for brevity.
+
+Suggestion: Clarify that forking means creating a copy of the repository under their GitHub account.
+
+Revised Steps:
+Log in to GitHub. If you don’t have an account, sign up for one.
+
+Go to the public Jekyll themes page, browse available themes, and select one for your site.
+
+Open the chosen Jekyll repository and click Fork at the top right of the page to create a copy of the repository under your GitHub account.
+
+In the Create a new fork page, make sure the following fields are set:
+
+Owner: This is auto-filled with your GitHub username.
+
+Repository name: Rename the repository to YOURUSERNAME.github.io, replacing YOURUSERNAME with your GitHub username.
+
+Note: Using your exact GitHub username is important, as it allows GitHub to automatically recognize and create your website.
+
+Click Create fork to make a copy of the Jekyll repository on your GitHub account.
+
+Follow the instructions in the README.md file and edit the _config.yml file to customize your site settings. After editing, click Commit changes to save your updates.
+
+Final Comments:
+Overall, the documentation is well-structured but could benefit from clearer language and more precise instructions for beginners. The key is to break down complex concepts (like Git) into simple, digestible terms and focus on clarity.
+
+Consistency in terminology, such as avoiding the use of "pull a request" and "push a request" in favor of "pull request" and "push," is crucial.
+
+It would be helpful to include a brief explanation of what forking is, especially since this term might be unfamiliar to beginners.
+
+Let me know if you'd like further refinements!
+
+How a GitHub Pages site is generated
+
+GitHub Pages generates a static website using two main components:
+
+- **GitHub Repository**: Each GitHub Pages site is linked to a GitHub repository, where you store and organize your site's content. You write the content in plain text, typically in Markdown or HTML, and save it in a designated folder within the repository.
+
+- **Static Site Generator**: Once your text files are in the repository, you need a static site generator to turn them into a website. **Jekyll** is an easy and recommended choice, fully supported by GitHub Pages. It offers pre-configured templates, called themes, that automatically generate a static website from the content stored in your GitHub repository.
+
+GitHub offers a variety of public Jekyll themes, each with different layouts and styles. Beginners can easily integrate one of these themes to create a personal site. The [Link to My Section](#create-a-github-pages-website) section explains how to use a Jekyll theme for your site.
+
+### **General Comments:**
+
+- **Clarity and Precision**: Some sentences are slightly wordy or unclear. Shortening and simplifying them will help readers, especially beginners, absorb the information more easily.
+
+- **Consistency**: Ensure consistent use of terminology (e.g., "GitHub repository" vs. "repository"). Be careful with phrasing like "for simplicity" – it's best to be direct in instructional writing.
+
+- **Formatting**: Try to limit HTML tags like `<br>` unless absolutely necessary. Instead, use appropriate headings and bullet points to structure the document more cleanly.
+
+- **Active Voice**: It's often clearer to use the active voice instead of passive. For example, "You need to set up a GitHub repository" is more direct than "A repository is created..."
+
+---
+
+### **2. Specific Comments and Suggestions:**
+
+#### **Introduction:**
+
+> "Rather than storing them locally, creating a personal portfolio site makes it accessible anytime, anywhere."
+
+- Suggestion: **"Instead of storing them locally, creating a personal portfolio site makes it accessible from anywhere, at any time."** (More natural phrasing and clarity).
+
+---
+
+#### **Workflow of creating a GitHub Pages site:**
+
+> "GitHub Pages is a service provided by GitHub. It enables you to create a static website directly from a GitHub repository. A static website means it doesn’t require a backend or server-side code, making it easy to set up."
+
+- Suggestion: **"GitHub Pages is a service by GitHub that lets you create a static website directly from a GitHub repository. Static websites don’t require backend or server-side code, making them simple to set up."** (Simplified and clearer).
+
+> "Creating a GitHub Pages site includes the following steps:"
+
+- Suggestion: Consider rewording as: **"Here are the key steps to create a GitHub Pages site:"** for a more engaging tone.
+
+---
+
+#### **Step 1: Set up a GitHub repository**
+
+> "A repository is a place where you store all your website's files. You create a new repository on GitHub to store and organize your website's files."
+
+- Suggestion: **"A repository is where you store and organize all the files for your website. To begin, create a new repository on GitHub."**
+
+---
+
+#### **Step 2: Add website content**
+
+> "Once you have a repository, you add the content for your website. This includes text files written in Markdown or HTML. You can also add image files. These files are the foundation of your website."
+
+- Suggestion: **"Once your repository is set up, you’ll add the content for your site. This typically includes text files (Markdown or HTML) and image files."**
+
+---
+
+#### **Step 3: Choose a static site generator**
+
+> "To convert your content into a website, you need a static site generator. A static site generator takes content from the repository and turns it into a functional website."
+
+- Suggestion: **"To turn your content into a website, use a static site generator. It takes the content from your repository and converts it into a live website."**
+
+> "The recommended tool is **Jekyll**, which works seamlessly with GitHub Pages. GitHub provides a variety of public free Jekyll themes, which provide pre-configured layouts and styles for a website. You can pick up a Jekyll theme and integrate it into your GitHub Pages to create a personal website without desinging everything from scratch."
+
+- Suggestion: **"The recommended tool is **Jekyll**, which integrates smoothly with GitHub Pages. GitHub offers a variety of free Jekyll themes, pre-configured with layouts and styles for your website. You can easily choose a theme and integrate it into your GitHub Pages site, saving time on design."**
+
+- Note: Correct the typo "**desinging**" to **designing**.
+
+---
+
+#### **Step 4: Publish your website**
+
+> "When you create the content and select a Jekyll theme, you can publish your website by pushing the changes to the repository."
+
+- Suggestion: **"After adding content and selecting a Jekyll theme, you can publish your site by pushing the changes to the repository."**
+
+---
+
+### **Before You Start:**
+
+> "Before creating a website from a GitHub repository, familiarize yourself with the following:"
+
+- Suggestion: **"Before you start, make sure you’re familiar with the following:"** (Sounds more natural).
+
+> "- **Markdown or HTML basics**: GitHub Pages supports both HTML and Markdown files. For simplicity, we recommend using Markdown, as it is easier to learn. To get started, see the [Markdown syntax guide]([Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/))."
+
+- Suggestion: **"Markdown or HTML basics: GitHub Pages supports both HTML and Markdown files. We recommend starting with Markdown, as it’s easier to learn. To get started, see the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/)."** (Removed redundant link text).
+
+> "- **Basic Git concepts**: Understanding basic Git concepts, such as pull requests, push requests, merge requests, and branches, is essential for working with GitHub. GitHub is built on Git, a version control system that tracks changes in your project files."
+
+- Suggestion: **"Basic Git concepts: To work with GitHub effectively, it's important to understand core Git concepts such as pull requests, push requests, merge requests, and branches. GitHub is built on Git, a version control system that tracks changes in your project."** (Simplified sentence structure).
+
+---
+
+### **Create a GitHub Pages Website:**
+
+> "There are several ways to create a website with GitHub Pages. The simplest method is by forking a Jekyll repository to your GitHub account and managing content in the forked repository."
+
+- Suggestion: **"There are several ways to create a website using GitHub Pages. The simplest method is to fork a Jekyll repository to your GitHub account and manage the content in the forked repository."**
+
+---
+
+### **Steps to Fork a Jekyll Repository:**
+
+> "Log in to [GitHub](https://github.com/). If you don't have an account, sign up for one."
+
+- Suggestion: **"Log in to [GitHub](https://github.com/), or sign up if you don't have an account."**
+
+> "Go to the [public Jekyll themes](https://github.com/topics/jekyll-theme) page, browse available themes and select one for your site."
+
+- Suggestion: **"Visit the [public Jekyll themes](https://github.com/topics/jekyll-theme) page, browse the themes, and select one for your site."**
+
+> "In the Create a new fork page, set the following fields:"
+
+- Suggestion: **"In the 'Create a new fork' page, set the following fields:"** (Ensure clarity with quotation marks around the section name).
+
+---
+
+### **Final Notes:**
+
+- It might be helpful to add a small section at the end of the document to briefly explain **what the user will see after publishing** their site (e.g., "After pushing your changes, your website will be live at [https://YOURUSERNAME.github.io](https://YOURUSERNAME.github.io)").
+
+- Ensure consistent formatting throughout the document (e.g., using **bold** for file names and specific terms like "Jekyll" and "_config.yml").
+
+---
+
+**Summary of Suggested Changes:**
+
+- Simplify sentence structures.
+
+- Correct typos (e.g., "desinging" → "designing").
+
+- Use more direct, natural phrasing (e.g., "After adding content..." instead of "When you create the content...").
+
+- Maintain consistency in terminology and formatting (e.g., using "GitHub repository" instead of "repository").
+
+- Remove unnecessary HTML tags like `<br>` and improve document flow with headings and bullet points.
+
+This revised version will be clearer and more engaging for beginners. Let me know if you’d like me to assist with further refinement!
+
+Workflow of creating a GitHub Pages site
+
+GitHub Pages is a service provided by GitHub that lets you create a static website directly from a GitHub repository. A static website doesn't require a backend or server-side code, making it easy to set up.
+
+Here are the key steps to create a GitHub Pages site:
+
+1. **Set up a GitHub repository**. A repository is where you store all the files for your website. To begin, create a new repository on GitHub.
+
+2. **Add website content.** Once a repository is set up, you add the content for your website. This includes text files written in **Markdown** or **HTML** and image files as well.
+
+3. **Choose a static site generator.** To turn your content into a website, use a static site generator. It automatically takes the content from your repository and converts it into a live website.  
+   
+   The recommended tool is **Jekyll**, which works seamlessly with GitHub Pages. GitHub provides a variety of public free Jekyll themes, with pre-configured layouts and styles for a website. You can choose a Jekyll theme and integrate it into your GitHub Pages to create a personal website without designing everything from scratch.
+
+4. **Publish your website.** After adding the content and selecting a Jekyll theme for your website, you can publish it by pushing the changes to the repository.
+
+## Create a GitHub Pages website
+
+There are several ways to create a website using GitHub Pages. The simplest method is to fork (which means copy in Git) a Jekyll repository to your GitHub account and managing content in the forked repository.  
+
+### To fork a Jekyll repository to create a GitHub Pages website:
+
+1. Log in to [GitHub](https://github.com/) or sign up if you don't have an account.
+
+2. Go to the [public Jekyll themes](https://github.com/topics/jekyll-theme) page, browse the themes, and select one for your site.
+
+3. Open the target Jekyll repository and click **Fork** at the top right of the page to create a copy of the repository under your GitHub account.  
+
+4. In the **Create a new fork** page, set the following fields:
+   
+   - **Owner:** This is auto-filled with your GitHub username.
+   
+   - **Repository name:** Rename the repositiory to `YOURUSERNAME.github.io`, replace `YOURUSERNAME` with your GitHub user name.  
+
+> **Note:** It's important to use your GitHub username, so that GitHub can automatically recognize it and create a website for your repository.
+
+5. Click **Create fork** to make a copy of the Jekyll repository on your GitHub account.
+
+## Add content to your website
+
+After setting up your GitHub Pages website, you can now add content to it. We recommend that you create a branch as your working copy, add the content in the brach and then merge it back to the main project after test.
+
+### To add conent to your website:
+
+1. Open the forked repository on your GitHub account and create a branch for it:
+   
+   > **Tip:** A branch is a working copy of your project. It lets you safely make changes without affecting the project. You can merge the changes to the project after you test the changes on the branch.
+   
+   a. At the top left, locate the branch selector dropdown (it usually displays **`main`** or **`master`**).
+   
+   b. Click the dropdown. In the field that appears, type the **name of your new branch**.
+
+2. Open the newly created branch, follow the instructions in the `README.md` file and edit the `_config.yml` file to customize the site settings. After you edit the `_config.yml` file, click **Commit changes** to save your edit.
+
+3. Create the content for your website in the branch. In order for the Jekyll theme to process the content and turn it into a functional website, use specific format for the content file and place them under a designated folder. For details, follow the instructions in the `README.md` file.
+
+4. Once you have added content files for your website, merge the chanages to the main branch.
+   
+   a. Click **Pull requests**.
+   
+   b. Under **Comparing changes**, select the **base branch** (usually `main` or `master`) and the **compare branch** (the branch with your changes).
+   
+   c. GitHub will display the changes you have made between the two branches. Review them to ensure everything looks good.
+   
+   d. Click **Create pull request** and then click **Merge** to merge your changes from the working copy to the main project.
+
+5. Wait for a few minutes. The content is now published to your personal website.

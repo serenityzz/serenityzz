@@ -48,13 +48,14 @@ The following are some commonly used phrases:<br>
 ### toil
 
 - **Meaning:** to work hard and persistently, often at something physically or mentally demanding<br>
-- **Example sentence:** Two provinces have said they will reduce the number of students toiling for degrees in English.<br>
-  Farmers toil in fields from dawn till dusk.    
+- **Example sentence:** 
+  - Two provinces have said they will reduce the number of students toiling for degrees in English.<br>
+  
+  - Farmers toil in fields from dawn till dusk.<br>
 
 **phrases of toil** <br>
 
-- **toil away:** work tirelessly for a long time.<br>
-  eg.: She toild away at her research for months.
+- **toil away:** work tirelessly for a long time.<br>eg.: She toild away at her research for months.
 - **fruit of one's toil:** rewards of one's hard work. 
 
 ### other phrases
