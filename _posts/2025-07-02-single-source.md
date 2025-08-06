@@ -5,8 +5,7 @@ tag: technical writing
 
 ---
 
-📑 <br>
-This topic introduces single-sourcing in technical writing, its benefits, and how to apply it in Flare.<br>
+📑 <br>This topic introduces single-sourcing in technical writing, its benefits, and how to apply it in Flare.<br>
 
 ## Overview
 
@@ -27,7 +26,7 @@ When a lot of content can be shared, single-sourcing provides the following bene
 
 ## Single-sourcing in Flare
 
-This section provides details on how to apply single-sourcing in Flare. You can use snippets and conditional text in topics to single source your content.<br> 
+This section provides details on how to apply single-sourcing in Flare. You can use snippets and conditional text in topics to single source your content.<br>
 
 ### Snippets
 
@@ -37,6 +36,7 @@ For example, if commands A and B share the same set of parameters, you can creat
 ### Topics with conditional text
 
 When larger pieces of content can be shared, you can single source and reuse the content at the topic level. For example, you create a topic introducing a product and then use this topic in both the user guide and administration guide. <br>
+
 If some sentences or paragraphs in the topic require different content for different guides (such as a feature only available to admins), you can use conditional text in the relevant sentence or paragraph. <br>
 
 In this example, to publish an admin-specific feature in the administration guide while hide it in the user guide, do the following:
