@@ -1,0 +1,4 @@
+theme: minima
+title: Starry Planet
+plugins:
+  - jemoji
