@@ -7,7 +7,6 @@ tags:
 ---
 
 📑
-
 Technical writers are often asked to provide writing samples to showcase their skills. Rather than storing them locally, creating a personal site for your portfolio makes it accessible from anywhere, at any time. One easy way to do so is by using GitHub Pages to create a static website from a GitHub repository. 
 
 ## Introduction
