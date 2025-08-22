@@ -27,8 +27,6 @@ Before you start, familiarize yourself with the following:
   
   - **Pull requests:** A pull request (PR) refers to merging changes from one branch to another. In GitHub Pages, you may create a pull request to merge changes from a branch of a repository to the main branch.
 
-
-
 ## Create a GitHub Pages website
 
 The easiest way to create a GitHub Pages website is by forking (copying) a Jekyll theme repository. Jekyll themes provide pre-configured layouts and styles for a website. In GitHub there is a variety of pre-built Jekyll themes that you can use to quickly build your website. This section provides the step-by-step instructions.
