@@ -25,7 +25,9 @@ Before you start, familiarize yourself with the following:
   
   - **Branches:** A branch is an isolated working copy of your repository. In GitHub it is recommeded to create a branch to make and test changes, and then merge the changes into the main branch.
   
-  - **Pull requests:** A pull request (PR) refers to merging changes from one branch to another. In GitHub Pages, you may create a pull request to merge changes from a branch of a repository to the main branch. 
+  - **Pull requests:** A pull request (PR) refers to merging changes from one branch to another. In GitHub Pages, you may create a pull request to merge changes from a branch of a repository to the main branch.
+
+
 
 ## Create a GitHub Pages website
 
