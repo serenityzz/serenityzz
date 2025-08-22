@@ -1,5 +1,4 @@
 ---
-layout: home
-title: Starry Plannet
-subtitle: This is where I pracice writings are stored
+title: Starry Planet
+subtitle: This is where I practice writings are stored
 ---
