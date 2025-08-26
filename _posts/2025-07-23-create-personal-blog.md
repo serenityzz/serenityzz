@@ -41,7 +41,7 @@ This section describes how to create a GitHub Pages site by using a Jekyll theme
 
 3. Open the target theme's repository and click **Fork** at top right. 
    
-   ![Alt text](/assets/images/posts/example.png)
+   ![fork a theme](/assets/images/posts/fork-a-theme.png)
    
    **Tip:** Forking creates a copy of a repository to your GitHub account. You can then add your site content by adding files to the copied repository. This is the simplest way to start using a Jekyll theme.
 
@@ -55,7 +55,9 @@ This section describes how to create a GitHub Pages site by using a Jekyll theme
 
 5. Click **Create fork** to copy the theme's repository to your GitHub account.
 
-6. Open the copied repository on your GitHub account, click **Settings** at the top and then select **Pages** in the left pane. ![Alt text](/assets/images/posts/example.png)
+6. Open the copied repository on your GitHub account, click **Settings** at the top and then select **Pages** in the left pane.
+
+![set pages](/assets/images/posts/set-pages.png)
 
 7. In the **Build and deploy** area, set the following fields:
    
