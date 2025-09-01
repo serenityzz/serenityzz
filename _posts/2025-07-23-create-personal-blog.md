@@ -31,38 +31,28 @@ This section describes how to create a GitHub Pages site by using a Jekyll theme
 ### To create a site using a Jekyll theme:
 
 1. Log in to [GitHub](https://github.com/) or sign up if you don't have an account.
-
 2. Go to the [public Jekyll themes](https://github.com/topics/jekyll-theme) page, browse the themes, and select one for your site.
-
 3. Open the target theme's repository and click **Fork** at top right. 
    ![fork a theme]({{ "/assets/images/posts/fork-a-theme.png" | relative_url }})
    
    > **Tip:** Forking creates a copy of a repository to your GitHub account. You can then add your site content by adding files to the copied repository. This is the simplest way to start using a Jekyll theme.
-
 4. On the **Create a new fork** page, set the following fields:
-   
-   - **Owner:** This is auto-filled with your GitHub username.
-   
-   - **Repository name:** Rename the repositiory to `YOURUSERNAME.github.io`, where `YOURUSERNAME` must be your GitHub username.
+   - **Owner:** This is auto-filled with your GitHub username.   
+   - **Repository name:** Rename the repositiory to `YOURUSERNAME.github.io`, where `YOURUSERNAME` must be your GitHub username.     
      
      > **Note:** It's important to use your GitHub username, so that GitHub Pages can recognize it and create a website for your repository.
-
 5. Click **Create fork** to copy the theme's repository to your GitHub account.
-
 6. Open the copied repository on your GitHub account, click **Settings** at the top and then select **Pages** in the left pane.
    ![set pages]({{ "/assets/images/posts/set-pages.png" | relative_url }})
-
-7. In the **Build and deployment** area, set the following fields:
-   
+7. In the **Build and deployment** area, set the following fields:   
    - **Source:** Select **Deploy from a branch.**
    - **Branch:** Select **`main`** or **`master`**. 
-
 8. Click **Save** to enable GitHub Pages for your repository. 
    When you add content files and commit your changes, GitHub Pages automatically generates and publishes the site. 
 
 ## Add content to your site
 
-After creating and setting up the GitHub Pages site, you can now add content to it. 
+After creating and setting up the GitHub Pages site, you can now add content to it.
 
 ### To add content to your site:
 
@@ -70,20 +60,20 @@ After creating and setting up the GitHub Pages site, you can now add content to 
    
    > **Tip:** A branch is an isolated working copy of your repository. We recommend that you make and test changes in a branch and then merge them into the main branch using a pull request.<br>
    
-       a. At the top left, locate the branch selector dropdown (it usually displays **`main`** or **`master`**).
-       b. Click the dropdown and then in the field that appears, type the name of your new branch, for example, `my-pages`.
-
+   <ol type="a">
+   <li>At the top left, locate the branch selector dropdown (it usually displays **`main`** or **`master`**).</li>
+   <li>Click the dropdown and then in the field that appears, type the name of your new branch, for example, `my-pages`.</li>
+   </ol>
 2. Select the new branch and then open the `README.md` file. The `README.md` file contains instructions on how to configure settings and manage content for the site. 
-
-3. Follow the instructions in the `README.md` file to configure the site and add content files, and then click **Commit changes** to save your changes.
+3. Follow the instructions in the `README.md` file to configure the site and add content files, and then click **Commit changes** to save your changes.   
    
    > **Tip:** In order for the Jekyll theme to process the content files and turn them into a functional site, you must use the specified format for the content files and place the content files under the designated folder. For details, follow the instructions in the `README.md` file.
-
 4. When you have added content files for your website, review the files in the branch to make sure everything works fine, and then merge the chanages to the main branch.
    
-       a. Click **Pull requests** at the top.
-       b. Under **Comparing changes**, select the **base branch** (usually `main` or `master`) and the **compare branch** (the branch with your changes).
-       c. GitHub displays the changes you have made between the two branches. Review them to ensure everything looks good.
-       d. Click **Create pull request** and then click **Merge** to merge your changes from the working branch to the main branch.
-
+   <ol type="a">
+   <li>Click **Pull requests** at the top.</li>
+   <li>Under **Comparing changes**, select the **base branch** (usually `main` or `master`) and the **compare branch** (the branch with your changes).</li>
+   <li>GitHub displays the changes you have made between the two branches. Review them to ensure everything looks good.</li>
+   <li>Click **Create pull request** and then click **Merge** to merge your changes from the working branch to the main branch.</li>
+   </ol>
 5. Wait for a few minutes for the content to be published. You can view your live website at `http(s)://<yourusername>.github.io/<yourusername>`.
