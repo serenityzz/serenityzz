@@ -68,9 +68,10 @@ After creating and setting up the GitHub Pages site, you can now add content to 
 
 1. Open your website repository and create a branch for it. 
    
-   > **Tip:** A branch is an isolated working copy of your repository. We recommend that you make and test changes in a branch and then merge them into the main branch using a pull request.
-   > a. At the top left, locate the branch selector dropdown (it usually displays **`main`** or **`master`**).
-   > b. Click the dropdown and then in the field that appears, type the name of your new branch, for example, `my-pages`.
+   > **Tip:** A branch is an isolated working copy of your repository. We recommend that you make and test changes in a branch and then merge them into the main branch using a pull request.<br>
+   
+       a. At the top left, locate the branch selector dropdown (it usually displays **`main`** or **`master`**).
+       b. Click the dropdown and then in the field that appears, type the name of your new branch, for example, `my-pages`.
 
 2. Select the new branch and then open the `README.md` file. The `README.md` file contains instructions on how to configure settings and manage content for the site. 
 
@@ -80,14 +81,9 @@ After creating and setting up the GitHub Pages site, you can now add content to 
 
 4. When you have added content files for your website, review the files in the branch to make sure everything works fine, and then merge the chanages to the main branch.
    
-   1. Click **Pull requests** at the top.
-   
-   2. Under **Comparing changes**, select the **base branch** (usually `main` or `master`) and the **compare branch** (the branch with your changes).
-   
-   3. GitHub displays the changes you have made between the two branches. Review them to ensure everything looks good.
-   
-   4. Click **Create pull request** and then click **Merge** to merge your changes from the working branch to the main branch.
-   
-   
+       a. Click **Pull requests** at the top.
+       b. Under **Comparing changes**, select the **base branch** (usually `main` or `master`) and the **compare branch** (the branch with your changes).
+       c. GitHub displays the changes you have made between the two branches. Review them to ensure everything looks good.
+       d. Click **Create pull request** and then click **Merge** to merge your changes from the working branch to the main branch.
 
 5. Wait for a few minutes for the content to be published. You can view your live website at `http(s)://<yourusername>.github.io/<yourusername>`.
