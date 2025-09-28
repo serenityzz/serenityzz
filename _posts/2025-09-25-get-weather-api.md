@@ -84,11 +84,12 @@ Retrieves the current weather for a specified city or location.
 |`country`             |string |Country of the specified city.                                      |
 |`latitude`            |number |Latitude coordinate of the location.                                |
 |`longitude`           |number |Longitude coordinate of the location.                               |
-| `temperature_celsius` |number |Current temperature in degrees Celsius.                             |
+|`temperature_celsius` |number |Current temperature in degrees Celsius.                             |
 |`humidity_percent`    |number |Current humidity level (percentage).                                |
 |`condition`           |string |Current weather condition (for example, *Partly cloudy*).           |
 |`wind_speed_kph`      |number |Current wind speed in kilometers per hour.                          |
 |`observation_time`    |string |Time when the weather information was observed, in ISO 8601 format. |
+
 
 ### Get seven-day weather forecast
 
@@ -183,7 +184,7 @@ Retrieves a seven-day weather forecast for a specified city or location.
 
 If an error occurs, the service returns a standard error response in JSON format.
 
-| Error                      | HTTP Status Code | Description                                                                                               |
+|Error                      |HTTP Status Code |Description                                                                                                                                                                                   |
 |:-------------------------- |:---------------- |:--------------------------------------------------------------------------------------------------------- |
 | `InvalidRequestException`  | 400              | The request is invalid. For example, a required parameter is missing or has an incorrect value.           |
 | `UnauthorizedException`    | 401              | The request is not authorized. Verify that you provided a valid API key.                                  |
