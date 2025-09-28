@@ -26,8 +26,8 @@ All requests require an API key. You can provide your API key in either of the f
 
 The following request parameters apply to all GetWeather API operations.
 
-| Parameter  | Type   | Required | Description                                                                                                                                                                                                   |
-| ---------- | ------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Parameter  |Type   |Required |Description                                                                                                                                                                                                   |
+|:---------- |:------ |:-------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `location` | string | Yes      | The location for which you want to get weather information. You can specify a city name (for example, `London`) or coordinates in the format `lat,lon` (for example, `51.50,-0.12`).                          |
 | `units`    | string | No       | The units for weather values. <br>Valid values: <br>- `metric` (default): Celsius(°C) and meters/second. <br> - `imperial`: Fahrenheti (°F) and miles/hour.<br>- `standard`: Kevin (K) and meters/second.<br> |
 | `apikey`   | string | Yes      | Your API key for authentication.                                                                                                                                                                              |
@@ -78,17 +78,17 @@ Retrieves the current weather for a specified city or location.
 
 #### Response elements
 
-| Element               | Type   | Description                                                         |
-| --------------------- | ------ | ------------------------------------------------------------------- |
-| `city`                | string | Name of the city.                                                   |
-| `country`             | string | Country of the specified city.                                      |
-| `latitude`            | number | Latitude coordinate of the location.                                |
-| `longitude`           | number | Longitude coordinate of the location.                               |
-| `temperature_celsius` | number | Current temperature in degrees Celsius.                             |
-| `humidity_percent`    | number | Current humidity level (percentage).                                |
-| `condition`           | string | Current weather condition (for example, *Partly cloudy*).           |
-| `wind_speed_kph`      | number | Current wind speed in kilometers per hour.                          |
-| `observation_time`    | string | Time when the weather information was observed, in ISO 8601 format. |
+|Element               |Type   |Description                                                         |
+|:--------------------- |:------ |:------------------------------------------------------------------- |
+|`city`                |string |Name of the city.                                                   |
+|`country`             |string |Country of the specified city.                                      |
+|`latitude`            |number |Latitude coordinate of the location.                                |
+|`longitude`           |number |Longitude coordinate of the location.                               |
+| `temperature_celsius` |number |Current temperature in degrees Celsius.                             |
+|`humidity_percent`    |number |Current humidity level (percentage).                                |
+|`condition`           |string |Current weather condition (for example, *Partly cloudy*).           |
+|`wind_speed_kph`      |number |Current wind speed in kilometers per hour.                          |
+|`observation_time`    |string |Time when the weather information was observed, in ISO 8601 format. |
 
 ### Get seven-day weather forecast
 
@@ -163,8 +163,8 @@ Retrieves a seven-day weather forecast for a specified city or location.
 
 #### Response elements
 
-| Element                              | Type   | Description                                   |
-| ------------------------------------ | ------ | --------------------------------------------- |
+|Element                              |Type   |Description                                   |
+|:------------------------------------ |:------ |:--------------------------------------------- |
 | `location.city`                      | string | Name of the city.                             |
 | `location.country`                   | string | Country of the specified city.                |
 | `location.latitude`                  | number | Latitude coordinate of the location.          |
@@ -184,7 +184,7 @@ Retrieves a seven-day weather forecast for a specified city or location.
 If an error occurs, the service returns a standard error response in JSON format.
 
 | Error                      | HTTP Status Code | Description                                                                                               |
-| -------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------- |
+|:-------------------------- |:---------------- |:--------------------------------------------------------------------------------------------------------- |
 | `InvalidRequestException`  | 400              | The request is invalid. For example, a required parameter is missing or has an incorrect value.           |
 | `UnauthorizedException`    | 401              | The request is not authorized. Verify that you provided a valid API key.                                  |
 | `TooManyRequestsException` | 429              | The request exceeded the rate limit. Retry after the time specified in the `Retry-After` response header. |
