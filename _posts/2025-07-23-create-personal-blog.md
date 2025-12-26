@@ -1,5 +1,5 @@
 ---
-title: "Create a personal website"
+title: "Host a portfolio on GitHub Pages"
 date: 2025-07-23
 tags: 
 - technical writing
@@ -8,21 +8,19 @@ tags:
 
 📑
 
-Technical writers are often asked to provide writing samples to showcase their skills. Instead of storing them locally, creating a personal site for your portfolio makes it accessible from anywhere, at any time. One easy way to create a personal website is to create a GitHub Pages site from a GitHub repository. 
+Technical writers often need to provide writing samples to showcase their skills. While keeping them in a local storage is an option, a cloud-based portfolio makes your work accessible to others at any time. GitHub Pages provides a streamlined method for hosting static websites directly from a GitHub repository. 
 
 ## Introduction to GitHub Pages
 
-GitHub Pages is a GitHub feature that can create a static website directly from a repository. It works by connecting a GitHub repository to a website. You add content files to a GitHub repository and GitHub Pages automatically builds and publishes a website from these files. GitHub Pages are ideal for hosting static websites for personal blogs, portfolios, or resumes.<br>
+GitHub Pages is a hosting service that generates a static website from files stored in a GitHub repository. It is ideal solution for personal blogs, portfolios, and project experiences.  
 
-To generate a site from files in a GitHub repository, a static site generator is needed. Jekyll is the built-in site generator for GitHub Pages. There are a vast number of Jekyll themes available for use. These Jekyll themes define the layouts and styles for a website and include configurations that are required to generate a site from GitHub repository files. Using an existing Jekyll theme lets you quickly create a site and avoids the need to configure everything from scratch. <br>
+When you push content to your repository, GitHub Pages automatically builds and generates the site. To turn files into a site, GitHub Pages uses Jekyll, a built-in site generator. Jekyll uses themes to define the website's layout and style and there are plenty of themes ready for use. You can choose one of the available themes to create a professional website without configuring from scratch. 
 
-Users with knowledge in css can also customize an existing Jekyll theme to change the website layout and style, or even create a Jekyll theme to add more style to the website.  
+> **Note:** While advances users can use CSS to customize or create themes, this topic focuses on building a site using an existing Jekyll theme. 
 
-This topic provides instructios on how to build a static site using an existing Jekyll theme. Customizing a Jekyll theme or creating a Jekyll theme is not covered in this topic. 
+## Create a site from a GitHub repository
 
-## Create a static site from GitHub repository
-
-This section describes how to create a static site from a GitHub repository by using a Jekyll theme. A Jekyll theme defines the layout and style of a website. Using a Jekyll theme lets you build a site quickly and easily. 
+This section describes how to create a static site from a GitHub repository by using an existing Jekyll theme. 
 
 ### To create a site using a Jekyll theme:
 
